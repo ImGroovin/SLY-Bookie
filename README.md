@@ -2,6 +2,10 @@
 SLY Bookie is a system to help teams keep track of contributions towards a crafting project. A Crafter selects the desired end product, contributors contribute to the project, and revenue is calculated and distributed based on contributions.
 
 ## How It Works
+Install the tool using a Userscript manager such as Tampermonkey.
+
+Once installed, access the tool by navigating to the Star Atlas DAC page: https://play.staratlas.com/dac/
+
 **Step 1:** The Crafter selects the desired end product and enters the desired amount.
 * *Collect data*:
   * On-chain SAGE data is queried to determine the necessary ingredients to complete the project.
